@@ -53,7 +53,7 @@ cd ReducingOverfitting
 
 3. Open and run the Jupyter Notebook `quiz.ipynb` using Jupyter Notebook or JupyterLab.
 
-4. Follow along with the code and comments in the notebook to understand how polynomial regression is implemented using Python.
+4. Follow along with the code and comments in the notebook to understand how to solve overfitting using Python.
 
 ## Acknowledgements
 
